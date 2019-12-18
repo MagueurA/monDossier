@@ -3,6 +3,9 @@
 #include <string>
 
 class Article
+
+
+
 {
    private:
       std::string titre;
